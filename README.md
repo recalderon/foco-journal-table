@@ -1,0 +1,1 @@
+# foco-journal-table
